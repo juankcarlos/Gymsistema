@@ -1,0 +1,7 @@
+body { 
+	padding: 0px;
+	margin: 0px;
+	background: url(http://localhost/Gym/assets/imagenes/porl.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	background-size: cover;
+}
